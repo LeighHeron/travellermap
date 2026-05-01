@@ -1193,8 +1193,7 @@ body:not(.route-shown) #routeBox { min-height: 135px; max-height: 135px; }
 #share-reddit    { background-position: -160px 0; }
 #share-tumblr    { background-position: -240px 0; }
 #share-linkedin  { background-position: -320px 0; }
-
-
+#share-bluesky   { background-position: -360px 0; }
 
 /* ============================================================ */
 /* Help Tab */
