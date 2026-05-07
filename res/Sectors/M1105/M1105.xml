@@ -2732,7 +2732,8 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>-1</X>
     <Name>Hanstone</Name>
     <Name Lang="as" Publisher="HIWG">Ftetlao'</Name>
-    <DataFile Author="Jo Grant, Jeff Zeitlin, and Matthew Collins" Type="SecondSurvey">Hanstone.txt</DataFile>
+    <Product Publisher="Mongoose Publishing" Author="Martin J. Dougherty" Title="Cluster Truck" Ref="https://www.mongoosepublishing.com/products/cluster-truck" />
+    <DataFile Author="Jo Grant, Jeff Zeitlin, Matthew Collins, Martin J. Dougherty" Type="SecondSurvey">Hanstone.txt</DataFile>
     <Subsectors Source="Jo Grant">
       <Subsector Index="A">Grieg</Subsector>
       <Subsector Index="B">Nadon</Subsector>
