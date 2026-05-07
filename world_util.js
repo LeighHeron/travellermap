@@ -784,7 +784,7 @@ export async function prepareWorld(world) {
   }
 
   // Stars
-  world.Stars = world.Stellar.replace(/[OBAFGKM][0-9] D/g, 'D')
+  world.Stars = world.Stellar ? world.Stellar.replace(/[OBAFGKM][0-9] D/g, 'D')
                     .split(/\s+(?!Ia|Ib|II|III|IV|V|VI|VII)/)
                     .map(code => {
                       const last = code.split(/\s+/).pop();
@@ -802,7 +802,7 @@ export async function prepareWorld(world) {
                       }
 
                       return {code, detail};
-                    });
+                    }) : undefined;
 
   // Zone
   world.Zone = (zone => {
