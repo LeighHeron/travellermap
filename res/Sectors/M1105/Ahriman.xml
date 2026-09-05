@@ -4,9 +4,7 @@
   <X>-2</X>
   <Name Lang="as">Ahriman</Name>
   <Credits>
-  <![CDATA[
-    <b>Holowon</b> Ahriman sector was designed by Leigh Heron.
-  ]]>
+  <![CDATA[<b>Holowon</b> Ahriman sector was designed by Leigh Heron]]>
   </Credits>
   <Subsectors>
     <Subsector Index="A">Sakiluur</Subsector>
@@ -34,15 +32,11 @@
     <Allegiance Code="Ip">Inyx Plutocracy</Allegiance>
     <Allegiance Code="Ls">League of Independent Systems</Allegiance>
     <Allegiance Code="Lt">Lorinda Tyraney</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaAs" Base="As">Non-Aligned, Aslan-dominated</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Sa">Samara</Allegiance>
     <Allegiance Code="Sm">Steaak Madigrud</Allegiance>
   </Allegiances>
   <Labels>
-    <Label Hex="1915" Color="#FFCC00" Wrap="false">Arun World Ships</Label>
+    <Label Hex="1915" Color="DarkRed" Wrap="false">Arun World Ships</Label>
   </Labels>
   <Borders>
     <Border Color="LimeGreen" Allegiance="Ip" LabelPosition="0710">0812 0712 0612 0513 0412 0313 0312 0211 0111 0210 0310 0309 0308 0407 0406 0506 0605 0705 0804 0805 0806 0907 1007 0908 0909 0910 0810 0811 0812</Border>
